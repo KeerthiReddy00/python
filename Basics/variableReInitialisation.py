@@ -1,0 +1,14 @@
+a=60
+b=20
+c=a
+b=25
+d=21
+a=b
+b=c
+c=d
+d=a
+b=c
+print(a)
+print(b)
+print(c)
+print(d)
